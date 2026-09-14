@@ -1,0 +1,57 @@
+{
+	"crates": [
+		{
+			"id": "crate_02",
+			"position": [5, 2]
+		}
+	],
+	"description": "铺桥并传送到另一侧，再把箱子推到箱子终点。",
+	"exit": [5, 3],
+	"goals": [
+		[6, 2]
+	],
+	"height": 7,
+	"id": "level_001",
+	"mirror": null,
+	"player": [1, 2],
+	"schema_version": 1,
+	"solution": ["RIGHT", "RIGHT", "RIGHT", "DOWN", "MIRROR", "RIGHT", "DOWN", "DOWN", "LEFT", "DOWN", "RIGHT", "UP", "UP", "UP", "LEFT"],
+	"teaching_goal": "桥改变可站立区域，投影也会随玩家当前位置改变；箱子到位后再寻找已打开的出口。",
+	"terrain": [
+		"~~~~~~~~",
+		"########",
+		"#......#",
+		"#####.##",
+		"########",
+		"~~~~~~~~",
+		"~~~~~~~~"
+	],
+	"texts": [
+		{
+			"background_alpha": 0.85,
+			"color": "#eef5ff",
+			"id": "text_01",
+			"position": [0.893442511558533, 0.860655784606934],
+			"size": 18,
+			"text": "WASD移动"
+		},
+		{
+			"background_alpha": 0.85,
+			"color": "#eef5ff",
+			"id": "text_02",
+			"position": [6.56557369232178, 0.975409865379334],
+			"size": 18,
+			"text": "你需要把箱子推到这"
+		},
+		{
+			"background_alpha": 0.85,
+			"color": "#eef5ff",
+			"id": "text_03",
+			"position": [5.07377052307129, 3.9590163230896],
+			"size": 18,
+			"text": "箱子都归位后门会开"
+		}
+	],
+	"title": "第五步：跨岛",
+	"width": 8
+}

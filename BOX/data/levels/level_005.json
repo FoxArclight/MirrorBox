@@ -1,0 +1,55 @@
+{
+	"crates": [
+		{
+			"id": "crate_01",
+			"position": [2, 2]
+		}
+	],
+	"description": "",
+	"exit": [5, 6],
+	"goals": [
+		[6, 4],
+		[0, 4]
+	],
+	"height": 8,
+	"id": "level_005",
+	"mirror": null,
+	"mirrors": [
+		{
+			"id": "mirror_01",
+			"orientation": "backslash",
+			"position": [5, 2]
+		},
+		{
+			"id": "mirror_02",
+			"orientation": "slash",
+			"position": [3, 4]
+		}
+	],
+	"player": [1, 1],
+	"schema_version": 1,
+	"solution": [],
+	"teaching_goal": "",
+	"terrain": [
+		"~~~~~~~~",
+		"~.#####~",
+		"~.....#~",
+		"~##.#.#~",
+		".......~",
+		"~.#.#.#~",
+		"~####.#~",
+		"~~~~~~~~"
+	],
+	"texts": [
+		{
+			"background_alpha": 0.85,
+			"color": "#eef5ff",
+			"id": "text_01",
+			"position": [4.40740728378296, 0.388888895511627],
+			"size": 18,
+			"text": "箱子也可以反射，并且利用双镜进行复制"
+		}
+	],
+	"title": "我的镜岛关卡",
+	"width": 8
+}

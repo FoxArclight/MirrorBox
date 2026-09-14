@@ -1,0 +1,40 @@
+{
+	"crates": [
+		{
+			"id": "crate_01",
+			"position": [3, 3]
+		}
+	],
+	"description": "",
+	"exit": [3, 6],
+	"goals": [],
+	"height": 8,
+	"id": "level_002",
+	"mirror": null,
+	"player": [1, 1],
+	"schema_version": 1,
+	"solution": [],
+	"teaching_goal": "",
+	"terrain": [
+		"~~~~~~~~",
+		"~......~",
+		"~......~",
+		"~##.###~",
+		"~~~~~~~~",
+		"~......~",
+		"~......~",
+		"~~~~~~~~"
+	],
+	"texts": [
+		{
+			"background_alpha": 0.85,
+			"color": "#eef5ff",
+			"id": "text_01",
+			"position": [6.09259223937988, 3.03703713417053],
+			"size": 18,
+			"text": "有时候你需要用箱子铺在水面上"
+		}
+	],
+	"title": "我的镜岛关卡",
+	"width": 8
+}

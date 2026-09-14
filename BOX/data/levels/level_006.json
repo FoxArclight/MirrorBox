@@ -1,0 +1,59 @@
+{
+	"crates": [
+		{
+			"id": "crate_01",
+			"position": [1, 6]
+		},
+		{
+			"id": "crate_02",
+			"position": [6, 5]
+		}
+	],
+	"description": "",
+	"exit": [5, 6],
+	"goals": [
+		[2, 6],
+		[6, 6]
+	],
+	"height": 8,
+	"id": "level_006",
+	"mirror": null,
+	"mirrors": [
+		{
+			"id": "mirror_01",
+			"orientation": "slash",
+			"position": [3, 5]
+		},
+		{
+			"id": "mirror_02",
+			"orientation": "backslash",
+			"position": [5, 2]
+		}
+	],
+	"player": [2, 1],
+	"schema_version": 1,
+	"solution": [],
+	"teaching_goal": "",
+	"terrain": [
+		"~~~~~~~~",
+		"~~.~~~~~",
+		"~~..~..~",
+		"~~~~~..~",
+		"~~~.~..~",
+		"....#..~",
+		"....~..~",
+		"~~~~~~~~"
+	],
+	"texts": [
+		{
+			"background_alpha": 0.85,
+			"color": "#eef5ff",
+			"id": "text_01",
+			"position": [1.59259271621704, 2.88888883590698],
+			"size": 18,
+			"text": "角色也可以通过反射复制"
+		}
+	],
+	"title": "我的镜岛关卡",
+	"width": 8
+}

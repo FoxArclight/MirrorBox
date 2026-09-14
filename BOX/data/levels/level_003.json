@@ -1,0 +1,47 @@
+{
+	"crates": [
+		{
+			"id": "crate_01",
+			"position": [3, 2]
+		},
+		{
+			"id": "crate_02",
+			"position": [3, 5]
+		}
+	],
+	"description": "",
+	"exit": [1, 4],
+	"goals": [
+		[5, 3],
+		[5, 4]
+	],
+	"height": 8,
+	"id": "level_003",
+	"mirror": null,
+	"player": [1, 3],
+	"schema_version": 1,
+	"solution": [],
+	"teaching_goal": "",
+	"terrain": [
+		"~~~~~~~~",
+		"~...###~",
+		"~....##~",
+		"~......~",
+		"~......~",
+		"~....##~",
+		"~...###~",
+		"~~~~~~~~"
+	],
+	"texts": [
+		{
+			"background_alpha": 0.85,
+			"color": "#eef5ff",
+			"id": "text_01",
+			"position": [3.94444465637207, 0.64814817905426],
+			"size": 18,
+			"text": "Z键可以撤回推动的操作"
+		}
+	],
+	"title": "我的镜岛关卡",
+	"width": 8
+}

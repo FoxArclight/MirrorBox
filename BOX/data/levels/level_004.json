@@ -1,0 +1,39 @@
+{
+	"crates": [],
+	"description": "",
+	"exit": [3, 6],
+	"goals": [],
+	"height": 8,
+	"id": "level_004",
+	"mirror": {
+		"id": "mirror_01",
+		"orientation": "backslash",
+		"position": [5, 2]
+	},
+	"player": [2, 1],
+	"schema_version": 1,
+	"solution": [],
+	"teaching_goal": "",
+	"terrain": [
+		"~~~~~~~~",
+		"~~..##~~",
+		"~~....~~",
+		"~~~~~~~~",
+		"~~~...~~",
+		"~~....~~",
+		"~~....~~",
+		"~~~~~~~~"
+	],
+	"texts": [
+		{
+			"background_alpha": 0.85,
+			"color": "#eef5ff",
+			"id": "text_01",
+			"position": [3.5, 3.09259247779846],
+			"size": 18,
+			"text": "使用空格可以利用镜面反射"
+		}
+	],
+	"title": "我的镜岛关卡",
+	"width": 8
+}
